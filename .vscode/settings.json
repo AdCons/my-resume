@@ -19,7 +19,19 @@
         "-outdir=%OUTDIR%",
         "%DOC%"
       ],
-      "env": {}
+      "env": {"C:\\texlive\\2023\\bin\\windows": "%PATH%"},
     }
+  ],
+  "cSpell.words": [
+    "desing",
+    "Gbps",
+    "Gsps",
+    "hackathon",
+    "HSMC",
+    "LVDS",
+    "RCNN",
+    "SSIS",
+    "Tableu",
+    "VHDL"
   ]
 }
