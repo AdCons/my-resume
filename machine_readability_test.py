@@ -1,6 +1,6 @@
 from pypdf import PdfReader
 
-reader = PdfReader("HighReadabilityResume.pdf")
+reader = PdfReader("Adrian Constante_Resume.pdf")
 text = ""
 for page in reader.pages:
     text += page.extract_text() + "\n"
